@@ -113,5 +113,5 @@ If you have any questions or suggestions, please feel free to reach out.
 
 You can download the dataset from the following link:
 
-**[Dataset Link]([https://www.kaggle.com/path/to/your/dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset))**
+**[Dataset Link]([https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset])**
 
