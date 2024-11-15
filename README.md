@@ -112,6 +112,6 @@ If you have any questions or suggestions, please feel free to reach out.
 ## 📂 Dataset
 
 You can download the dataset from the following link:
+**[Dataset Link](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)**
 
-**[Dataset Link]([https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset])**
 
